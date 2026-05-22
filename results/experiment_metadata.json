@@ -1,0 +1,17 @@
+{
+  "dataset": "data/scenario_dataset.csv",
+  "rows": 150,
+  "label_counts": {
+    "family_school": 25,
+    "food_shop": 25,
+    "health_places": 25,
+    "home_places": 25,
+    "social_intro": 25,
+    "transport": 25
+  },
+  "embedding": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "test_size": 0.2,
+  "random_state": 42,
+  "train_rows": 120,
+  "test_rows": 30
+}

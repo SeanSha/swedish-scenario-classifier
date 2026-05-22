@@ -1,0 +1,31 @@
+id,text,english,chinese,lecture_theme,label,pred_logistic_regression,pred_linear_svm,pred_random_forest,pred_knn
+112,Jag är i köket.,I am in the kitchen.,我在厨房里。,home_and_prepositions,home_places,home_places,home_places,home_places,home_places
+65,Jag är på sjukhuset.,I am at the hospital.,我在医院。,health_and_places,health_places,health_places,health_places,health_places,health_places
+138,Jag studerar svenska.,I study Swedish.,我学习瑞典语。,intro_and_clarification,social_intro,social_intro,social_intro,social_intro,social_intro
+17,Jag vill äta kyckling.,I want to eat chicken.,我想吃鸡肉。,food_and_shop,food_shop,food_shop,food_shop,food_shop,food_shop
+80,Jag åker buss.,I go by bus.,我坐公交车。,transport_and_directions,transport,transport,transport,transport,transport
+71,Läkaren är här.,The doctor is here.,医生在这里。,health_and_places,health_places,health_places,health_places,health_places,health_places
+52,Jag är trött.,I am tired.,我累了。,health_and_places,health_places,health_places,health_places,health_places,health_places
+12,Jag vill ha tomater.,I want tomatoes.,我想要西红柿。,food_and_shop,food_shop,food_shop,food_shop,food_shop,food_shop
+126,Hej!,Hello!,你好！,intro_and_clarification,social_intro,social_intro,social_intro,social_intro,social_intro
+134,Vad talar du för språk?,What languages do you speak?,你说什么语言？,intro_and_clarification,social_intro,social_intro,social_intro,social_intro,social_intro
+10,Jag vill ha en semla.,I want a semla.,我想要一个 semla 甜点。,food_and_shop,food_shop,food_shop,food_shop,food_shop,food_shop
+25,Tack för maten.,Thank you for the food.,谢谢这顿饭。,food_and_shop,food_shop,food_shop,food_shop,food_shop,food_shop
+45,Var är barnets jacka?,Where is the child s jacket?,孩子的外套在哪里？,family_and_school,family_school,family_school,family_school,family_school,family_school
+59,Jag behöver hjälp.,I need help.,我需要帮助。,health_and_places,health_places,health_places,transport,food_shop,health_places
+132,Var bor du?,Where do you live?,你住在哪里？,intro_and_clarification,social_intro,social_intro,social_intro,social_intro,social_intro
+40,Min son är i skolan.,My son is in school.,我儿子在学校。,family_and_school,family_school,family_school,family_school,family_school,family_school
+102,Jag bor i Stockholm.,I live in Stockholm.,我住在斯德哥尔摩。,home_and_prepositions,home_places,social_intro,social_intro,social_intro,social_intro
+22,Var är kaffet?,Where is the coffee?,咖啡在哪里？,food_and_shop,food_shop,food_shop,food_shop,food_shop,food_shop
+98,Är det långt?,Is it far?,远吗？,transport_and_directions,transport,social_intro,social_intro,social_intro,social_intro
+32,Jag lämnar mitt barn.,I drop off my child.,我送我的孩子。,family_and_school,family_school,family_school,family_school,family_school,family_school
+70,Jag vill träffa läkare.,I want to see a doctor.,我想看医生。,health_and_places,health_places,health_places,health_places,health_places,health_places
+99,Till höger.,To the right.,向右。,transport_and_directions,transport,social_intro,transport,transport,home_places
+33,Jag kommer klockan tre.,I come at three o clock.,我三点来。,family_and_school,family_school,transport,transport,transport,transport
+36,Mitt barn mår bra.,My child is fine.,我的孩子很好。,family_and_school,family_school,family_school,family_school,family_school,family_school
+110,Rummet är stort.,The room is big.,房间很大。,home_and_prepositions,home_places,home_places,home_places,home_places,home_places
+118,Mattan är på golvet.,The rug is on the floor.,地毯在地板上。,home_and_prepositions,home_places,home_places,home_places,home_places,home_places
+140,Hur mår du?,How are you?,你好吗？,intro_and_clarification,social_intro,social_intro,social_intro,social_intro,social_intro
+91,Jag kan köra bil.,I can drive a car.,我会开车。,transport_and_directions,transport,transport,transport,transport,transport
+78,När går bussen?,When does the bus leave?,公交车什么时候走？,transport_and_directions,transport,transport,transport,transport,transport
+104,Jag är i lägenheten.,I am in the apartment.,我在公寓里。,home_and_prepositions,home_places,home_places,home_places,home_places,home_places

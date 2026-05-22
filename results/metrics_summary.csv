@@ -1,0 +1,5 @@
+classifier,embedding,accuracy,macro_f1
+linear_svm,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.8667,0.8712
+logistic_regression,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.8667,0.8689
+random_forest,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.8667,0.8682
+knn,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.8667,0.8648

@@ -1,0 +1,8 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+results/.cache/
+results/.matplotlib/
+data/lecture_notes_extracted.txt
