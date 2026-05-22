@@ -6,7 +6,7 @@ Embedding-based text classification system for absolute beginner / pre-A1 learne
 
 - Hugging Face dataset: https://huggingface.co/datasets/SeanSha30/swedish-pre-a1-scenario-classifier-dataset
 - Hugging Face demo: https://huggingface.co/spaces/SeanSha30/swedish-scenario-classifier-demo
-- GitHub repository: TODO
+- GitHub repository: https://github.com/SeanSha/swedish-scenario-classifier
 
 The system classifies short Swedish learning sentences into six lecture-aligned daily-life scenarios:
 

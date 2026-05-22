@@ -1,6 +1,6 @@
 # Lecture-Aligned Swedish Scenario Classification with Sentence Embeddings
 
-**GitHub repository:** TODO  
+**GitHub repository:** https://github.com/SeanSha/swedish-scenario-classifier  
 **Hugging Face dataset:** https://huggingface.co/datasets/SeanSha30/swedish-pre-a1-scenario-classifier-dataset  
 **Working demo:** https://huggingface.co/spaces/SeanSha30/swedish-scenario-classifier-demo
 
