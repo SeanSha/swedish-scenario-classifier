@@ -1,4 +1,4 @@
-# Swedish Daily-Life Scenario Classifier — Final Report
+# Swedish Daily-Life Scenario Classifier
 
 Lecture-Aligned Swedish Scenario Classification with Sentence Embeddings
 
