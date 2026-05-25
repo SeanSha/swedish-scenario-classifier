@@ -30,8 +30,6 @@ The project is also designed to connect to Assignment 2. A future SisuTutor Agen
 - `src/train_tool_model.py`: trains a lightweight local classifier for Assignment 2 tool demonstrations.
 - `src/predict_scenario.py`: predicts a scenario label for one input sentence.
 - `report/assignment1_report_draft.md`: report draft.
-- `report/final_report.md`: concise academic report for submission.
-- `report/supervisor_questions.md`: concise questions to send to the supervisor.
 
 ## Recommended Final Experiment
 
